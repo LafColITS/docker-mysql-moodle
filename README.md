@@ -28,3 +28,11 @@ In `/etc/gitlab-runner/config.toml` on the docker host, add the service to the r
 ```
 
 The service can be accessed at the hostname `lafayette__mysql-moodle`.
+
+## License
+
+GNU General Public License v2.0
+
+## Copyright
+
+(C) 2015 Lafayette College ITS
